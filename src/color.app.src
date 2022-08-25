@@ -1,0 +1,1 @@
+{application, color, [{description, "color - console color"}, {vsn, "1.0.0"}, {modules, [color]}, {registered, []}, {applications, [kernel, stdlib]}]}.
